@@ -7,32 +7,9 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  approach:
-  - name: electrophysiological approach
-    schemaKey: ApproachType
-  dataStandard:
-  - identifier: RRID:SCR_015242
-    name: Neurodata Without Borders (NWB)
-    schemaKey: StandardsType
-  measurementTechnique:
-  - name: spike sorting technique
-    schemaKey: MeasurementTechniqueType
-  - name: multi electrode extracellular electrophysiology recording technique
-    schemaKey: MeasurementTechniqueType
-  - name: surgical technique
-    schemaKey: MeasurementTechniqueType
-  numberOfBytes: 2565720
-  numberOfFiles: 4
-  numberOfSubjects: 2
+  numberOfBytes: 0
+  numberOfFiles: 0
   schemaKey: AssetsSummary
-  species:
-  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
-    name: Mus musculus - House mouse
-    schemaKey: SpeciesType
-  variableMeasured:
-  - ElectricalSeries
-  - Units
-  - ElectrodeGroup
 citation: Flynn, Garrett (2023) CatalystNeuro Placeholder 3 (Version draft) [Data
   set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
 contributor:
@@ -44,7 +21,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2023-11-30T17:09:30.037534+00:00'
-datePublished: '2023-12-11T17:45:24.706505+00:00'
+datePublished: '2023-12-15T20:18:58.004862+00:00'
 description: This dandiset is reserved by CatalystNeuro and will be published at a
   future point in time.
 doi: 10.80507/dandi.123456/0.123456.1234
@@ -59,13 +36,13 @@ manifestLocation:
 name: CatalystNeuro Placeholder 3
 protocol: []
 publishedBy:
-  endDate: '2023-12-11T17:45:24.706505+00:00'
-  id: urn:uuid:25e3f0b3-7ca2-4419-85d6-b0130a0a6380
+  endDate: '2023-12-15T20:18:58.004862+00:00'
+  id: urn:uuid:8f4b7fcd-77c0-4274-bc2a-413398259efe
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2023-12-11T17:45:24.706505+00:00'
+  startDate: '2023-12-15T20:18:58.004862+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:07d40bb2-4ab1-4705-af37-b257bee3d6c8
+  - id: urn:uuid:40b83699-a135-42c0-95df-28f743f8a181
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
