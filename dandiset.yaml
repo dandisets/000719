@@ -10,8 +10,8 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Flynn, Garrett (2023) CatalystNeuro Placeholder 3 (Version draft) [Data
-  set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+citation: Flynn, Garrett (2024) NWB Cloud Benchmarks - Zarr (Version draft) [Data
+  set]. DANDI archive. https://dandiarchive.org/dandiset/000719/draft
 contributor:
 - affiliation: []
   email: gflynn@usc.edu
@@ -21,10 +21,8 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2023-11-30T17:09:30.037534+00:00'
-datePublished: '2023-12-15T20:18:58.004862+00:00'
 description: This dandiset is reserved by CatalystNeuro and will be published at a
   future point in time.
-doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000719/draft
 identifier: DANDI:000719
@@ -33,20 +31,8 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000719/versions/draft/assets/
-name: CatalystNeuro Placeholder 3
+name: NWB Cloud Benchmarks - Zarr
 protocol: []
-publishedBy:
-  endDate: '2023-12-15T20:18:58.004862+00:00'
-  id: urn:uuid:8f4b7fcd-77c0-4274-bc2a-413398259efe
-  name: DANDI publish
-  schemaKey: PublishActivity
-  startDate: '2023-12-15T20:18:58.004862+00:00'
-  wasAssociatedWith:
-  - id: urn:uuid:40b83699-a135-42c0-95df-28f743f8a181
-    identifier: RRID:SCR_017571
-    name: DANDI API
-    schemaKey: Software
-    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
