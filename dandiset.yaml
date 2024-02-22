@@ -10,16 +10,9 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Flynn, Garrett (2024) NWB Cloud Benchmarks - Zarr (Version draft) [Data
-  set]. DANDI archive. https://dandiarchive.org/dandiset/000719/draft
-contributor:
-- affiliation: []
-  email: gflynn@usc.edu
-  includeInCitation: true
-  name: Flynn, Garrett
-  roleName:
-  - dcite:ContactPerson
-  schemaKey: Person
+citation: NWB Cloud Benchmarks - Zarr (2024). (Version draft) [Data set]. DANDI archive.
+  https://dandiarchive.org/dandiset/000719/draft
+contributor: []
 dateCreated: '2023-11-30T17:09:30.037534+00:00'
 description: This dandiset is reserved by CatalystNeuro and will be published at a
   future point in time.
