@@ -1,0 +1,8 @@
+[submodule "icephys/sub-1214579789_ses-1214621812_icephys.nwb.zarr"]
+	path = icephys/sub-1214579789_ses-1214621812_icephys.nwb.zarr
+	url = https://github.com/dandizarrs/26f1a66a-d124-46ad-9380-6ba86f5f662c
+	datalad-id = 848c9016-544f-4d24-92a6-59991d475123
+[submodule "icephys/sub-1214579789_ses-1214621812_icephys_NestedDirectoryStore_nwb.zarr"]
+	path = icephys/sub-1214579789_ses-1214621812_icephys_NestedDirectoryStore_nwb.zarr
+	url = https://github.com/dandizarrs/7a6ed1a4-9d00-45f0-ba27-cba83c198289
+	datalad-id = 1107a7dd-552b-4662-9db3-2051a06510b2
