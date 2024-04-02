@@ -6,3 +6,19 @@
 	path = icephys/sub-1214579789_ses-1214621812_icephys_NestedDirectoryStore_nwb.zarr
 	url = https://github.com/dandizarrs/7a6ed1a4-9d00-45f0-ba27-cba83c198289
 	datalad-id = 1107a7dd-552b-4662-9db3-2051a06510b2
+[submodule "sub-1214579789_ses-1214621812_icephys/sub-1214579789_ses-1214621812_icephys.nwb.zarr"]
+	path = sub-1214579789_ses-1214621812_icephys/sub-1214579789_ses-1214621812_icephys.nwb.zarr
+	url = https://github.com/dandizarrs/fd01fe56-9c26-4da3-9c78-e57e85d34033
+	datalad-id = 4f633573-7d0e-4970-8398-75c664d11190
+[submodule "sub-1214579789_ses-1214621812_icephys/sub-1214579789_ses-1214621812_icephys_NestedDirectoryStore_nwb.zarr"]
+	path = sub-1214579789_ses-1214621812_icephys/sub-1214579789_ses-1214621812_icephys_NestedDirectoryStore_nwb.zarr
+	url = https://github.com/dandizarrs/5d1908d6-7522-419e-bfe8-295002d9bd08
+	datalad-id = a24e01a4-1f2f-45fe-9952-290e055b03ec
+[submodule "sub-npI3_ses-20190421_behavior+ecephys/sub-npI3_ses-20190421_behavior+ecephys.nwb.zarr"]
+	path = sub-npI3_ses-20190421_behavior+ecephys/sub-npI3_ses-20190421_behavior+ecephys.nwb.zarr
+	url = https://github.com/dandizarrs/232c8023-ec10-44fa-882e-124aabf2d6da
+	datalad-id = d62b5822-cf42-4db3-978f-0605832d1ccd
+[submodule "sub-npI3_ses-20190421_behavior+ecephys/sub-npI3_ses-20190421_behavior+ecephys_NestedDirectoryStore_nwb.zarr"]
+	path = sub-npI3_ses-20190421_behavior+ecephys/sub-npI3_ses-20190421_behavior+ecephys_NestedDirectoryStore_nwb.zarr
+	url = https://github.com/dandizarrs/ef6b21c6-4617-453f-b1e2-d046df7b8c9a
+	datalad-id = 1863ba71-1819-439f-ae22-8b1c28d4b59c
