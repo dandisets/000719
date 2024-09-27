@@ -30,3 +30,7 @@
 	path = sub-R6_ses-20200206T210000_behavior+ophys/sub-R6_ses-20200206T210000_behavior+ophys_NestedDirectoryStore_nwb.zarr
 	url = https://github.com/dandizarrs/2ff520ff-8b7e-4125-8792-e51d89387002
 	datalad-id = 1ccb90a4-fb2b-4b2b-b33a-d3c01a9c8f68
+[submodule "icephys_9_27_2024/sub-1214579789_ses-1214621812_icephys_NestedDirectoryStore_nwb.zarr"]
+	path = icephys_9_27_2024/sub-1214579789_ses-1214621812_icephys_NestedDirectoryStore_nwb.zarr
+	url = https://github.com/dandizarrs/7515c603-9940-4598-aa1b-8bf32dc9b10c
+	datalad-id = 8ebddcaa-4a8d-41a2-b348-db6f2a45b592
