@@ -284,7 +284,7 @@ null
 "blobDateModified":
 "2024-09-27T20:48:11-07:00",
 "contentSize":
-0,
+25836456,
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/b491e537-83da-4ab9-a7e5-4f4be908c5ba/download/",
@@ -295,7 +295,7 @@ null
 "digest":
 {
 "dandi:dandi-zarr-checksum":
-null
+"44b85dff459c5ad6186bfa49905d12a3-20609--25836456"
 },
 "encodingFormat":
 "application/x-zarr",
@@ -347,7 +347,7 @@ null
 "path":
 "icephys_DirectoryStore_9_29_24/sub-1214579789_ses-1214621812_icephys_DirectoryStore.nwb.zarr",
 "size":
-0,
+25836456,
 "zarr":
 "2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a"
 },
