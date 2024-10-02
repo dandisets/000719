@@ -38,7 +38,3 @@
 	path = icephys_DirectoryStore_9_29_24/sub-1214579789_ses-1214621812_icephys_DirectoryStore.nwb.zarr
 	url = https://github.com/dandizarrs/2e8d0cb4-c5d4-4abc-88d8-2581c3cf7f5a
 	datalad-id = 70613e71-a0af-40fa-a1e5-2d321e5bd354
-[submodule "ophys_DirectoryStore_9_29_24/sub-R6_ses-20200206T210000_behavior+ophys_DirectoryStore.nwb.zarr"]
-	path = ophys_DirectoryStore_9_29_24/sub-R6_ses-20200206T210000_behavior+ophys_DirectoryStore.nwb.zarr
-	url = https://github.com/dandizarrs/dbbf7b82-c649-409b-a1ae-3b28d1991628
-	datalad-id = 0e772d16-6b9a-453e-8af1-fae5c30a81b6
