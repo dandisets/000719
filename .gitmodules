@@ -42,3 +42,11 @@
 	path = ophys_DirectoryStore_9_29_24/sub-R6_ses-20200206T210000_behavior+ophys_DirectoryStore.nwb.zarr
 	url = https://github.com/dandizarrs/dbbf7b82-c649-409b-a1ae-3b28d1991628
 	datalad-id = 0e772d16-6b9a-453e-8af1-fae5c30a81b6
+[submodule "sub-R6_ses-20200206T210000_behavior+ophys_DirectoryStore.nwb.zarr"]
+	path = sub-R6_ses-20200206T210000_behavior+ophys_DirectoryStore.nwb.zarr
+	url = https://github.com/dandizarrs/1c763ab9-bf1d-4e9c-a1b2-4d99f5113c5e
+	datalad-id = 63ecdf7d-512c-4ad1-b680-3dbc4f24152c
+[submodule "sub-R6_ses-20200206T210000_behavior+ophys_DirectoryStore_rechunked.nwb.zarr"]
+	path = sub-R6_ses-20200206T210000_behavior+ophys_DirectoryStore_rechunked.nwb.zarr
+	url = https://github.com/dandizarrs/c8c6b848-fbc6-4f58-85ff-e3f2618ee983
+	datalad-id = 21364e15-d686-485b-aa01-04e440ffc180
