@@ -50,3 +50,7 @@
 	path = sub-R6_ses-20200206T210000_behavior+ophys_DirectoryStore_rechunked.nwb.zarr
 	url = https://github.com/dandizarrs/c8c6b848-fbc6-4f58-85ff-e3f2618ee983
 	datalad-id = 21364e15-d686-485b-aa01-04e440ffc180
+[submodule "icephys_DS_11_21_24/sub-1214579789_ses-1214621812_icephys_DirectoryStore.nwb.zarr"]
+	path = icephys_DS_11_21_24/sub-1214579789_ses-1214621812_icephys_DirectoryStore.nwb.zarr
+	url = https://github.com/dandizarrs/18e75d22-f527-4051-a4c8-c7e0f1e7dad1
+	datalad-id = 5caaa9dd-699a-46c5-b0a9-8b24e6c21949
