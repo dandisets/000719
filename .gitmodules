@@ -6,3 +6,7 @@
 	path = icephys_DS_11_21_24/sub-1214579789_ses-1214621812_icephys_DirectoryStore.nwb.zarr
 	url = https://github.com/dandizarrs/18e75d22-f527-4051-a4c8-c7e0f1e7dad1
 	datalad-id = 5caaa9dd-699a-46c5-b0a9-8b24e6c21949
+[submodule "sub-npI3_ses-20190421_behavior+ecephys_rechunk.nwb.zarr"]
+	path = sub-npI3_ses-20190421_behavior+ecephys_rechunk.nwb.zarr
+	url = https://github.com/dandizarrs/d097af6b-8fd8-4d83-b649-fc6518e95d25
+	datalad-id = 784b109b-0b89-4c9b-a12c-d7bd0509dca3
